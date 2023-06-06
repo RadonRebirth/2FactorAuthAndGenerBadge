@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "196cab06-4917-4c22-ab94-ec7405826d07": {
+      "ProjectGuid": "196cab06-4917-4c22-ab94-ec7405826d07",
+      "DisplayName": "TestASPProject",
+      "ColorIndex": 0
+    },
+    "df551a1c-0095-4a04-97c3-23ce801108d7": {
+      "ProjectGuid": "df551a1c-0095-4a04-97c3-23ce801108d7",
+      "DisplayName": "TestASPProject.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
