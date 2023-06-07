@@ -45,10 +45,10 @@
 # Документация
 
 <b>Пользовательская документация:</b>
-* [Руководство](https://github.com/RadonRebirth/2FactorAuthAndGenerBadge/wiki/Руководство-пользователя)
+* [Руководство](https://github.com/RadonRebirth/2FactorAuthAndGenerBadge/wiki/%2311-Руководство-пользователя)
 
 <b>Документация разработки:</b>
 
-* [Техническое задание](https://github.com/RadonRebirth/2FactorAuthAndGenerBadge/wiki/1.-ТЗ)
-* [Спецификация](https://github.com/RadonRebirth/2FactorAuthAndGenerBadge/wiki/2-Спецификации)
-* [Функциональные требования](https://github.com/RadonRebirth/2FactorAuthAndGenerBadge/wiki/3-Функциональные-требования)
+* [Техническое задание](https://github.com/RadonRebirth/2FactorAuthAndGenerBadge/wiki/%2301-Техническое-Задание)
+* [Спецификация](https://github.com/RadonRebirth/2FactorAuthAndGenerBadge/wiki/%2302-Спецификации)
+* [Функциональные требования](https://github.com/RadonRebirth/2FactorAuthAndGenerBadge/wiki/%2303-Функциональные-требования)
